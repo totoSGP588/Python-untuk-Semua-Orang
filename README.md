@@ -1,4 +1,4 @@
-# Python untuk Semua Orang 🇮🇩
+# Python untuk Semua Orang
 
 Selamat datang di *Python untuk Semua Orang*! 🎓  
 Panduan belajar bahasa pemrograman Python dalam bahasa Indonesia — dari dasar, langkah demi langkah, sampai bisa membuat proyek sederhana.
